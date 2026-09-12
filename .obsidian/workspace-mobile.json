@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Untitled 1.md",
+                "file": "content/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Untitled"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Untitled 1.md",
+            "file": "content/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Untitled 1.md",
+            "file": "content/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Untitled 1.md",
+            "file": "content/Untitled.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -186,6 +186,10 @@
   },
   "active": "f7ba8af1807c41d9",
   "lastOpenFiles": [
-    "content/index.md"
+    "README.md",
+    "content/Untitled.md",
+    "CODE_OF_CONDUCT.md",
+    "content/index.md",
+    "content/Untitled 1.md"
   ]
 }
