@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cfea7c8dd62fb819",
+        "id": "413bd625fb26d40c",
         "type": "tabs",
         "children": [
           {
-            "id": "34175ac5e41bfe47",
+            "id": "534c19e21e684666",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "content/Attachments/Pasted image 20260913134317.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260913134317"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +38,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -98,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -146,7 +142,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,10 +212,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "48ae485d52dd6620",
+  "active": "534c19e21e684666",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "index.md",
+    "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
+    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
+    "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
+    "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133928.png",
     "content/Attachments/Pasted image 20260913134317.png",
+    "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
+    "content/02 💡 - Projects/02 💡 - Projects.md",
     "content/Attachments/og-image.png",
     "quartz/static/Unconfirmed 98193.crdownload",
     "quartz/static/Unconfirmed 267531.crdownload",
@@ -230,19 +233,13 @@
     "quartz/static/og-image (1).png",
     "quartz/static/Unconfirmed 746913.crdownload",
     "content/Attachments",
-    "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
     "content/06 🗄️ - Archives",
     "content/05 📝 - Daily Notes/05 📝 - Daily Notes.md",
     "content/05 📝 - Daily Notes",
     "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
     "content/04 📘 - Resources/Templates",
     "content/04 📘 - Resources/04 📘 - Resources.md",
-    "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133928.png",
-    "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
-    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
-    "content/02 💡 - Projects/02 💡 - Projects & Tugas.md",
     "content/01 📚 - Semester/01 📚 - Semester.md",
-    "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
     "content/index.md",
     "Attachments/Pasted image 20260913133838.png",
     "Untitled 1.md",
@@ -257,8 +254,6 @@
     "Berani Tidak Disukai (Ichiro Kishimi, Fumitake Koga)_text.md",
     "Operon/Demo Workspace/Operon Basics Project.md",
     "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
-    "Operon/Demo Workspace/Operon Command Palette.md",
-    "CODE_OF_CONDUCT.md",
-    "README.md"
+    "Operon/Demo Workspace/Operon Command Palette.md"
   ]
 }
