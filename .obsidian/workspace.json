@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97c5f994f047008a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga)"
-            }
-          },
-          {
-            "id": "65555cb0d862ee3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga)"
-            }
-          },
-          {
             "id": "34175ac5e41bfe47",
             "type": "leaf",
             "state": {
@@ -48,23 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "d251e57f5cfd2e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -262,36 +219,37 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d251e57f5cfd2e3d",
+  "active": "34175ac5e41bfe47",
   "lastOpenFiles": [
-    "content/Attachments/Pasted image 20260913134317.png",
+    "quartz/static/Unconfirmed 295534.crdownload",
     "content/index.md",
+    "content/Attachments/Pasted image 20260913134317.png",
     "content/Attachments",
-    "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
-    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
+    "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
+    "content/06 🗄️ - Archives",
+    "content/05 📝 - Daily Notes/05 📝 - Daily Notes.md",
+    "content/05 📝 - Daily Notes",
+    "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
+    "content/04 📘 - Resources/Templates",
+    "content/04 📘 - Resources/E-Books",
+    "content/04 📘 - Resources/04 📘 - Resources.md",
+    "content/04 📘 - Resources/Attachments",
+    "content/04 📘 - Resources",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133928.png",
-    "Attachments/Pasted image 20260913133838.png",
-    "Attachments",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
     "content/03 🧊 - Areas of Life/Attachments",
-    "content/04 📘 - Resources/Attachments",
-    "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
-    "content/05 📝 - Daily Notes/05 📝 - Daily Notes.md",
-    "content/04 📘 - Resources/04 📘 - Resources.md",
+    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
+    "content/03 🧊 - Areas of Life",
     "content/02 💡 - Projects/02 💡 - Projects & Tugas.md",
-    "content/01 📚 - Semester/01 📚 - Semester.md",
-    "Untitled.md",
     "content/02 💡 - Projects",
-    "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
+    "content/01 📚 - Semester/01 📚 - Semester.md",
+    "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
+    "Attachments/Pasted image 20260913133838.png",
+    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "content/Untitled 1.md",
     "content/Untitled.md",
-    "content/04 📘 - Resources/Templates",
-    "content/04 📘 - Resources/E-Books",
-    "content/06 🗄️ - Archives",
-    "content/05 📝 - Daily Notes",
-    "content/04 📘 - Resources",
     "content/01 📚 - Semester/S1-2026/Untitled.md",
     "2026-09-09.md",
     "quartz/static/20f2810a-66c9-4074-80e2-383b3be03fb7.png",
