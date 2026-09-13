@@ -44,7 +44,7 @@ plugins:
   - source: "@quartz-themes/core"
     options:
       theme: "obsidianite"
-      mode: "both"
+      mode: "dark"
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
