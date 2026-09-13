@@ -5,6 +5,7 @@
     "CODE_OF_CONDUCT.md",
     "README.md",
     "docs",
-    "quartz"
+    "quartz",
+    "public"
   ]
 }

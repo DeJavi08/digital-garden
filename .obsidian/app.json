@@ -4,5 +4,7 @@
     "node_modules/",
     "docs/"
   ],
-  "uriCallbacks": false
+  "uriCallbacks": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "./Attachments"
 }
