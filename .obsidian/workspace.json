@@ -11,10 +11,12 @@
             "id": "34175ac5e41bfe47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "content/Attachments/Pasted image 20260913134317.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260913134317"
             }
           }
         ]
@@ -96,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,6 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/Attachments/Pasted image 20260913134317.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -212,8 +217,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "34175ac5e41bfe47",
+  "active": "48ae485d52dd6620",
   "lastOpenFiles": [
+    "Untitled.md",
+    "content/Attachments/Pasted image 20260913134317.png",
+    "content/Attachments/og-image.png",
     "quartz/static/Unconfirmed 98193.crdownload",
     "quartz/static/Unconfirmed 267531.crdownload",
     "quartz/static/Unconfirmed 788970.crdownload",
@@ -221,7 +229,6 @@
     "quartz/static/Unconfirmed 759522.crdownload",
     "quartz/static/og-image (1).png",
     "quartz/static/Unconfirmed 746913.crdownload",
-    "content/Attachments/Pasted image 20260913134317.png",
     "content/Attachments",
     "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
     "content/06 🗄️ - Archives",
@@ -229,7 +236,6 @@
     "content/05 📝 - Daily Notes",
     "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
     "content/04 📘 - Resources/Templates",
-    "content/04 📘 - Resources/E-Books",
     "content/04 📘 - Resources/04 📘 - Resources.md",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133928.png",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
@@ -239,7 +245,6 @@
     "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
     "content/index.md",
     "Attachments/Pasted image 20260913133838.png",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "content/Untitled 1.md",
