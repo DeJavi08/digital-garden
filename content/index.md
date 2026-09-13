@@ -1,5 +1,5 @@
 ---
-title: Selamat datang di my kebun digital!
+title: Selamat datang di my kebun digital! (Digital Garden)
 ---
 ---
 ![[Pasted image 20260913134317.png]]
@@ -36,7 +36,7 @@ Ini adalah kebun yang aktif, berkembang, dan tidak pernah selesai. Sebagian cata
 | :--------------------------- | :----------------------------------- |
 | [[00 🎯 - Dashboard & Maps]] | Peta dan navigasi utama              |
 | [[01 📚 - Semester]]         | Catatan per mata kuliah              |
-| [[02 💡 - Projects]]]        | Proyek, tegas besar, PKL             |
+| [[02 💡 - Projects]]         | Proyek, tegas besar, PKL             |
 | [[03 🧊 - Areas of Life]]    | Akademik, karir, kesehatan, keuangan |
 | [[04 📘 - Resources]]        | Referensi & bahan belajar            |
 | [[05 📝 - Daily Notes]]      | Catatan harian                       |
