@@ -22,7 +22,7 @@ Ini adalah kebun yang aktif, berkembang, dan tidak pernah selesai. Sebagian cata
 
 **Pertama**, ikuti tautan internal antar catatan — dari satu pemikiran ke pemikiran lain.
 
-**Kedua**, lihat [[01 📚 - Semester]] untuk catatan per mata kuliah, atau [[02 💡 - Projects & Tugas]] untuk proyek yang sedang saya kerjakan.
+**Kedua**, lihat [[01 📚 - Semester]] untuk catatan per mata kuliah, atau [[02 💡 - Projects]] untuk proyek yang sedang saya kerjakan.
 
 **Ketiga**, jelajahi [[04 📘 - Resources]] untuk referensi, cheat sheet, dan bahan belajar.
 
