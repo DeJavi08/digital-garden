@@ -11,14 +11,10 @@
             "id": "34175ac5e41bfe47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -148,7 +142,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -221,8 +214,13 @@
   },
   "active": "34175ac5e41bfe47",
   "lastOpenFiles": [
-    "quartz/static/Unconfirmed 295534.crdownload",
-    "content/index.md",
+    "quartz/static/Unconfirmed 98193.crdownload",
+    "quartz/static/Unconfirmed 267531.crdownload",
+    "quartz/static/Unconfirmed 788970.crdownload",
+    "quartz/static/Unconfirmed 461428.crdownload",
+    "quartz/static/Unconfirmed 759522.crdownload",
+    "quartz/static/og-image (1).png",
+    "quartz/static/Unconfirmed 746913.crdownload",
     "content/Attachments/Pasted image 20260913134317.png",
     "content/Attachments",
     "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
@@ -233,17 +231,13 @@
     "content/04 📘 - Resources/Templates",
     "content/04 📘 - Resources/E-Books",
     "content/04 📘 - Resources/04 📘 - Resources.md",
-    "content/04 📘 - Resources/Attachments",
-    "content/04 📘 - Resources",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133928.png",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
-    "content/03 🧊 - Areas of Life/Attachments",
     "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
-    "content/03 🧊 - Areas of Life",
     "content/02 💡 - Projects/02 💡 - Projects & Tugas.md",
-    "content/02 💡 - Projects",
     "content/01 📚 - Semester/01 📚 - Semester.md",
     "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
+    "content/index.md",
     "Attachments/Pasted image 20260913133838.png",
     "Untitled.md",
     "Untitled 1.md",
