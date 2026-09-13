@@ -244,8 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48ae485d52dd6620",
+  "active": "72ff8392c502f881",
   "lastOpenFiles": [
+    "node_modules/@quartz-themes/obsidianite/README.md",
+    "node_modules/@quartz-themes/obsidianite/theme.json",
+    "node_modules/@quartz-themes/obsidianite/package.json",
+    "node_modules/@quartz-themes/obsidianite/LICENSE",
+    "node_modules/@quartz-themes/obsidianite",
     "Berani Tidak Disukai (Ichiro Kishimi, Fumitake Koga)_text.md",
     "content/Berani_Tidak_Disukai_Rapi.md",
     "content/Untitled 1.md",
@@ -260,9 +265,6 @@
     "Operon/Tables/Default table.table",
     "Operon/Tables",
     "Operon",
-    "vercel.json",
-    "content/Untitled.base",
-    "content/Untitled",
     "CODE_OF_CONDUCT.md",
     "README.md"
   ]
