@@ -1,5 +1,5 @@
 ---
-title: Selamat datang di kebun ku!
+title: Selamat datang di my kebun digital!
 ---
 ---
 ![[Pasted image 20260913134317.png]]
