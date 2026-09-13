@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dejavi08.github.io/digital-garden
+  baseUrl: notes.dejavi.id
   ignorePatterns:
     - private
     - templates
