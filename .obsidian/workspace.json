@@ -11,14 +11,12 @@
             "id": "0da7f2b726a234d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
-                "mode": "source",
-                "source": false
+                "file": "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041107 - Praktikum Konsep Pemrograman/Kochan - ProgramminginC.pdf"
               },
-              "icon": "lucide-file",
-              "title": "00 🎯 - Dashboard & Maps"
+              "icon": "lucide-file-text",
+              "title": "Kochan - ProgramminginC"
             }
           }
         ]
@@ -33,7 +31,7 @@
       {
         "id": "e4154e2ba8079ddd",
         "type": "tabs",
-        "dimension": 68.18181818181817,
+        "dimension": 68.15352697095436,
         "children": [
           {
             "id": "48ae485d52dd6620",
@@ -85,7 +83,7 @@
       {
         "id": "c2fc0904f5be5da6",
         "type": "tabs",
-        "dimension": 31.818181818181817,
+        "dimension": 31.84647302904564,
         "children": [
           {
             "id": "534c19e21e684666",
@@ -101,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.9125213623047
+    "width": 284.82315826416016
   },
   "right": {
     "id": "43181bbe4cfa0c69",
@@ -173,16 +171,6 @@
             }
           },
           {
-            "id": "72ff8392c502f881",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "3773ec796964466b",
             "type": "leaf",
             "state": {
@@ -218,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.29998779296875
+    "width": 292.3585205078125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,31 +220,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "534c19e21e684666",
+  "active": "48ae485d52dd6620",
   "lastOpenFiles": [
-    "content/00 🎯 - Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.pptx.pdf",
+    "content/02 Areas of Life/(PENS) Kuliah D4 IT C/D4 IT C 2026.md",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/trigonometri-1.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/RPS_Matematika1_2022 tanpa ttd.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/matriks-powerpoint.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/Matrik _1.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/Matematika dasar pertemuan 1.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/LIMIT & KEKONTINUAN.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/INTEGRAL.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/gauss.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/fungsi.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/DIFERENSIAL.pdf",
+    "content/02 Areas of Life/(PENS) Kuliah D4 IT C/Jadwal Kuliah Semester 1.md",
+    "content/03 Resources/Templates/Struktur Folder v2.md",
+    "content/01 Projects/Untitled.md",
+    "content/03 Resources/Templates/Struktur Folder v1.md",
     "content/index.md",
+    "content/03 Resources/Attachments/Pasted image 20260913134317.png",
+    "content/03 Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
+    "content/06 Archives/06 🗄️ - Archives.md",
+    "content/05 📝 - Daily Notes/05 📝 - Daily Notes.md",
+    "content/03 Resources/04 📘 - Resources.md",
+    "content/00 Dashboard & Maps/00 🎯 - Dashboard & Maps.md",
+    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
+    "content/01 Semester/01 📚 - Semester.md",
+    "content/02 💡 - Projects/02 💡 - Projects.md",
     "README.md",
     "02 💡 - Projects & Tugas.md",
-    "content/Attachments/Pasted image 20260913134317.png",
-    "content/Attachments",
-    "content/06 🗄️ - Archives/06 🗄️ - Archives.md",
-    "content/06 🗄️ - Archives",
-    "content/05 📝 - Daily Notes/05 📝 - Daily Notes.md",
-    "content/05 📝 - Daily Notes",
-    "content/04 📘 - Resources/Templates/Struktur Folder.md",
-    "content/04 📘 - Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
-    "content/04 📘 - Resources/Templates",
-    "content/04 📘 - Resources/E-Books",
-    "content/04 📘 - Resources/Attachments",
-    "content/04 📘 - Resources/04 📘 - Resources.md",
-    "content/04 📘 - Resources",
-    "content/03 🧊 - Areas of Life/03 🧊 - Areas of Life.md",
-    "content/03 🧊 - Areas of Life",
-    "content/02 💡 - Projects/02 💡 - Projects.md",
-    "content/02 💡 - Projects",
-    "content/01 📚 - Semester/S3-2027",
-    "content/01 📚 - Semester/01 📚 - Semester.md",
     "CODE_OF_CONDUCT.md",
     "index.md",
     "content/03 🧊 - Areas of Life/Attachments/Pasted image 20260913133808.png",
@@ -271,11 +264,6 @@
     "content/01 📚 - Semester/S1-2026/Untitled.md",
     "2026-09-09.md",
     "quartz/static/20f2810a-66c9-4074-80e2-383b3be03fb7.png",
-    "node_modules/@quartz-themes/apple-notes/README.md",
-    "node_modules/@quartz-themes/obsidianite/README.md",
-    "Berani Tidak Disukai (Ichiro Kishimi, Fumitake Koga)_text.md",
-    "Operon/Demo Workspace/Operon Basics Project.md",
-    "Operon/Demo Workspace/Set Up Your Obsidian Vault with Operon.md",
-    "Operon/Demo Workspace/Operon Command Palette.md"
+    "node_modules/@quartz-themes/apple-notes/README.md"
   ]
 }

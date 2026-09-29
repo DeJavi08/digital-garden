@@ -6,5 +6,6 @@
   ],
   "uriCallbacks": false,
   "promptDelete": false,
-  "attachmentFolderPath": "./Attachments"
+  "attachmentFolderPath": "content/03 Resources/Attachments",
+  "showUnsupportedFiles": true
 }

@@ -2,7 +2,7 @@
 title: Selamat datang di my kebun digital! (Digital Garden)
 ---
 ---
-![[Pasted image 20260913134317.png]]
+![[Pasted image 20260913134317.png|700]]
 
 # 🌱 Kebun Digital Javi
 
