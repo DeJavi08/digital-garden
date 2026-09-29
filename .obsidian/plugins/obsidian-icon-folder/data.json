@@ -33,33 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "content/00 Dashboard & Maps": {
-    "iconName": "LiLayoutDashboard",
-    "iconColor": "#8f8f8f"
-  },
-  "content/01 Projects": {
-    "iconName": "LiLightbulb",
-    "iconColor": "#00ff1e"
-  },
-  "content/02 Areas of Life": {
-    "iconName": "LiHeart",
-    "iconColor": "#a94747"
-  },
-  "content/03 Resources": {
-    "iconName": "LiBookCopy",
-    "iconColor": "#9b83c9"
-  },
-  "content/04 Daily Notes": {
-    "iconName": "LiNotebookPen",
-    "iconColor": "#84d46e"
-  },
-  "content/06 Archives": {
-    "iconName": "LiArchive",
-    "iconColor": "#ab7878"
-  },
-  "content/05 People": {
-    "iconName": "LiAtSign",
-    "iconColor": "#b62f77"
   }
 }

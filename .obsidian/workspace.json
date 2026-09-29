@@ -11,12 +11,14 @@
             "id": "0da7f2b726a234d2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041107 - Praktikum Konsep Pemrograman/Kochan - ProgramminginC.pdf"
+                "file": "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kochan - ProgramminginC"
+              "icon": "lucide-file",
+              "title": "1 - Pengantar Pemrograman C"
             }
           }
         ]
@@ -99,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.82315826416016
+    "width": 480.68875885009766
   },
   "right": {
     "id": "43181bbe4cfa0c69",
@@ -220,25 +222,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48ae485d52dd6620",
+  "active": "0da7f2b726a234d2",
   "lastOpenFiles": [
     "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.pptx.pdf",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.md",
+    "content/index.md",
+    "content/06 Archives",
+    "content/05 People/(SMPIT AU) Teman Angkatan",
+    "content/05 People/(SMPIT AU) Guru",
+    "content/05 People/(SMAN 17) Teman Angkatan",
+    "content/05 People/(SMAN 17) Kakak Kelas",
+    "content/05 People/(SMAN 17) Guru",
+    "content/05 People/(SDIT AU) Teman Angkatan",
+    "content/05 People/(SDIT AU) Kakak Kelas",
+    "content/05 People/(SDIT AU) Guru",
     "content/02 Areas of Life/(PENS) Kuliah D4 IT C/D4 IT C 2026.md",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/trigonometri-1.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/RPS_Matematika1_2022 tanpa ttd.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/matriks-powerpoint.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/Matrik _1.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/Matematika dasar pertemuan 1.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/LIMIT & KEKONTINUAN.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/INTEGRAL.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/gauss.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/fungsi.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/WI26040001 - Matematika 1/DIFERENSIAL.pdf",
     "content/02 Areas of Life/(PENS) Kuliah D4 IT C/Jadwal Kuliah Semester 1.md",
     "content/03 Resources/Templates/Struktur Folder v2.md",
     "content/01 Projects/Untitled.md",
     "content/03 Resources/Templates/Struktur Folder v1.md",
-    "content/index.md",
     "content/03 Resources/Attachments/Pasted image 20260913134317.png",
     "content/03 Resources/E-Books/Berani Tidak Disukai ( Ichiro Kishimi, Fumitake Koga).md",
     "content/06 Archives/06 🗄️ - Archives.md",
@@ -263,7 +265,6 @@
     "content/Untitled.md",
     "content/01 📚 - Semester/S1-2026/Untitled.md",
     "2026-09-09.md",
-    "quartz/static/20f2810a-66c9-4074-80e2-383b3be03fb7.png",
-    "node_modules/@quartz-themes/apple-notes/README.md"
+    "quartz/static/20f2810a-66c9-4074-80e2-383b3be03fb7.png"
   ]
 }
