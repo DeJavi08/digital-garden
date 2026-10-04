@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f617a1aac682f1",
+        "id": "635a1865b1f86e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "0da7f2b726a234d2",
+            "id": "b6fab791dc9d1f64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.md",
+                "file": "content/03 Resources/Templates/Struktur Folder v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Pengantar Pemrograman C"
+              "title": "Struktur Folder v2"
+            }
+          },
+          {
+            "id": "03e02f2ba323cba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/03 Resources/Templates/Struktur Folder v3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Struktur Folder v3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,16 +233,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "0da7f2b726a234d2",
+  "active": "03e02f2ba323cba5",
   "lastOpenFiles": [
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.pptx.pdf",
-    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.md",
-    "content/index.md",
-    "content/06 Archives",
+    "content/03 Resources/Templates/Struktur Folder v2.md",
+    "content/03 Resources/Templates/Struktur Folder v3.md",
     "content/05 People/(SMPIT AU) Teman Angkatan",
     "content/05 People/(SMPIT AU) Guru",
     "content/05 People/(SMAN 17) Teman Angkatan",
@@ -236,9 +248,12 @@
     "content/05 People/(SDIT AU) Teman Angkatan",
     "content/05 People/(SDIT AU) Kakak Kelas",
     "content/05 People/(SDIT AU) Guru",
-    "content/02 Areas of Life/(PENS) Kuliah D4 IT C/D4 IT C 2026.md",
+    "content/05 People/(PENS) Teman Angkatan",
+    "content/05 People/(PENS) Kakak Tingkat",
+    "content/03 Resources/(PENS) Mata Kuliah/Semester 1/TI041102 - Konsep Pemrograman/1 - Pengantar Pemrograman C.md",
     "content/02 Areas of Life/(PENS) Kuliah D4 IT C/Jadwal Kuliah Semester 1.md",
-    "content/03 Resources/Templates/Struktur Folder v2.md",
+    "content/02 Areas of Life/(PENS) Kuliah D4 IT C/D4 IT C 2026.md",
+    "content/index.md",
     "content/01 Projects/Untitled.md",
     "content/03 Resources/Templates/Struktur Folder v1.md",
     "content/03 Resources/Attachments/Pasted image 20260913134317.png",
